@@ -124,3 +124,11 @@ line 4 of `views/recipes/index.erb`, by calling `.each` on a `nil`.
 * Don't be afraid to open up the test files in `spec/features`. You might
   not be familiar with how to write tests yet but you should be able to get the
   general idea of what they're doing.
+
+
+
+  #####
+
+
+
+  UPDATED VERSION. MY VERSION

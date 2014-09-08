@@ -38,4 +38,4 @@ attr_reader :id, :name, :recipe_id
 
 
 
-end # END OF CLASS
+end # END OF CLASS  #
